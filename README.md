@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+
 
 
 # 💻 Tech Stack:
